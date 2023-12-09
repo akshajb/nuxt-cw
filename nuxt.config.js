@@ -61,5 +61,15 @@ export default {
 
   tailwindcss: {
     exposeConfig: true,
+
+    config: {
+      theme: {
+        extend: {
+          fontSize: {
+            '2xs': '8px',
+          },
+        },
+      },
+    },
   },
 }
