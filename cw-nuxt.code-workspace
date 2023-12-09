@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+    "editor.formatOnSave": true,
+		"tailwindCSS.experimental.configFile": ".nuxt/tailwind.config.mjs",
+		"files.associations": {
+			"*.css": "tailwindcss"
+		}
+	}
+}
